@@ -19,13 +19,13 @@ header h1 {
 
 main {
     margin: 0 50px;
+    display: flex;
 }
 
 aside {
     display: inline-block;
     background-color: #e3e3e3;
-    text-align: right;
-    width: 29%;
+    width: 30%;
 }
 
 section {
